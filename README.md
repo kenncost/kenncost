@@ -1,0 +1,5 @@
+- 👋 Hello there! I am Kenn Costin, a CIS student at Georgia State University pursuing my bachelor's degree.
+- 👀 Looking for internship opportunities in software development, information technology, and project management.
+- 📈 Currently, I am pursuing a Python certification from LinkedIn Learning
+- 💞️ Open to collaboration!
+- Thrilled to be joining the GitHub community! Reach out to me via LinkedIn @ www.linkedin.com/in/kennedy-costin-08699723a
